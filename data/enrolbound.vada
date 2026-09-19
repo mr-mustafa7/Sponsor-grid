@@ -1,0 +1,16 @@
+% ENROLBOUND-01 — executable eligibility (synthetic)
+% Local Python in ontology.py is the always-on engine.
+% Prometheux runs this file when PMTX_TOKEN works; bindings still come from the same five rules.
+
+% I1 Histology must be non-squamous NSCLC.
+% I2 An uncommon EGFR mutation must be documented before randomisation.
+% I3 ECOG performance status 0 or 1.
+% E1 Prior metformin is permitted.
+% E2 eGFR must be at least 60 mL/min/1.73m2 at screening.
+% Unknown is not a fail. Any fail means cannot enrol.
+
+criterion("I1").
+criterion("I2").
+criterion("I3").
+criterion("E1").
+criterion("E2").

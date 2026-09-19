@@ -1,0 +1,9 @@
+Synthetic site note — not a real person
+NHS number: 943 476 5919
+Name: Priya N.
+Age: 64
+Histology: non-squamous NSCLC
+EGFR uncommon mutation: UNKNOWN (lab not back)
+ECOG: 1
+Current medicines: metformin 500 mg
+eGFR: 58 mL/min
