@@ -4,11 +4,6 @@ A feasibility desk for one synthetic Phase III lung-cancer trial (SG-ONC-302). I
 
 Not a medical device. All patients are fake.
 
-## Live
-
-- UI: https://aistudio.google.com/apps/c6371cb1-cea4-4d75-a255-15305567cea6
-- Agent (Modal + Pydantic AI Gateway): https://mustalha25--enrolbound-agent-fastapi-app.modal.run
-- Model (Modal, Qwen2.5-1.5B-Instruct): https://mustalha25--enrolbound-model-serve.modal.run/v1
 
 ## How it works
 
